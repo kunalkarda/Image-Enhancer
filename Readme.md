@@ -6,5 +6,6 @@
     
 # Output
 
-    ![alt text](https://github.com/kunalkarda/Learning-in-the-dark/blob/master/Figure_1.png?raw=true)
+
+   ![alt text](https://github.com/kunalkarda/Learning-in-the-dark/blob/master/Figure_1.png)
     
